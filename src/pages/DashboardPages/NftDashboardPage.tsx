@@ -77,7 +77,7 @@ const MedicalDashboardPage: React.FC = () => {
 
   return (
     <>
-      <PageTitle>JSpace</PageTitle>
+      <PageTitle>JSPACE</PageTitle>
       {isDesktop ? desktopLayout : mobileAndTabletLayout}
     </>
   );
